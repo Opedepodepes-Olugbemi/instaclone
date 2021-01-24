@@ -27,7 +27,7 @@ body {
   margin-left: 5px;
 }
 .nav_bar{
-  font-size: 20pt;
+  font-size: 25px;
   display: flex;
   width: 100%;
   background: #181818;
@@ -117,7 +117,8 @@ a{
 .media_icons{
   display: flex;
   height: auto;
-  font-size: 20px;
+  padding-top: 8px;
+  font-size: 22px;
   justify-content: space-between;
   align-items: center;
   transition: cubic-bezier(0.86, 0, 0.07, 1);
