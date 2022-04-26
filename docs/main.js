@@ -27,3 +27,4 @@ $(document).ready(function(){
 $('#but').click(function(){
   $('.follow_action').html("<p>Following</p>");
 });
+
